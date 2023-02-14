@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+
+}
+#team-list-member{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+   
+   
+     
+    
+}
+.flex{  
+    flex-basis:calc(33% - 8px);
+    text-align: center; 
+    background-color: #abd5fa;
+    
+     
+    
+}
